@@ -1,0 +1,15 @@
+{
+   
+    "FilmeGeneros": [
+    { "id": 1, "idFilme": 1, "idGenero": 1 },
+    { "id": 2, "idFilme": 1, "idGenero": 2 },
+    { "id": 3, "idFilme": 2, "idGenero": 3 },
+    { "id": 4, "idFilme": 3, "idGenero": 4 }
+    ],
+    "SessaoTipoExibicao": [
+    { "id": 1, "idSessao": 1, "idTipoExibicao": 1 },
+    { "id": 2, "idSessao": 1, "idTipoExibicao": 4 },
+    { "id": 3, "idSessao": 2, "idTipoExibicao": 3 },
+    { "id": 4, "idSessao": 3, "idTipoExibicao": 4 }
+    ]
+}
