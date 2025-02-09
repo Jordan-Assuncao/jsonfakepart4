@@ -1,0 +1,14 @@
+{
+"FilmeGeneros": [
+    { "id": 1, "idFilme": "Filme A", "idGenero": "Ação" },
+    { "id": 2, "idFilme": "Filme A", "idGenero": "Aventura" },
+    { "id": 3, "idFilme": "Filme B", "idGenero": "Comédia" },
+    { "id": 4, "idFilme": "Filme C", "idGenero": "Documentário" }
+    ],
+    "SessaoTipoExibicao": [
+    { "id": 1, "idSessao": "Filme A", "idTipoExibicao": "2D" },
+    { "id": 2, "idSessao": "Filme A", "idTipoExibicao": "DUBLADO" },
+    { "id": 3, "idSessao": "Filme B", "idTipoExibicao": "HD" },
+    { "id": 4, "idSessao": "Filme C", "idTipoExibicao": "DUBLADO" }
+    ]
+}
