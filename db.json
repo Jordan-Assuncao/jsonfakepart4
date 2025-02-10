@@ -1,0 +1,58 @@
+{
+    "FilmeGeneros": [
+        {
+            "id": 1,
+            "idFilme": "Filme A",
+            "idGenero": "Ação"
+        },
+        {
+            "id": 2,
+            "idFilme": "Filme A",
+            "idGenero": "Aventura"
+        },
+        {
+            "id": 3,
+            "idFilme": "Filme B",
+            "idGenero": "Comédia"
+        },
+        {
+            "id": 4,
+            "idFilme": "Filme C",
+            "idGenero": "Documentário"
+        }
+    ],
+    "SessaoTipoExibicao": [
+        {
+            "id": 1,
+            "idSessao": "1",
+            "dataSessao": "01/01/2001",
+            "horaSessao": "18:00",
+            "idFilme": "Filme A",
+            "idTipoExibicao": "2D"
+        },
+        {
+            "id": 2,
+            "idSessao": "1",
+            "dataSessao": "01/01/2001",
+            "horaSessao": "18:00",
+            "idFilme": "Filme A",
+            "idTipoExibicao": "DUBLADO"
+        },
+        {
+            "id": 3,
+            "idSessao": "2",
+            "dataSessao": "02/02/2002",
+            "horaSessao": "19:00",
+            "idFilme": "Filme A",
+            "idTipoExibicao": "HD"
+        },
+        {
+            "id": 4,
+            "idSessao": "3",
+            "dataSessao": "03/03/2003",
+            "horaSessao": "20:00",
+            "idFilme": "Filme B",
+            "idTipoExibicao": "DUBLADO"
+        }
+    ]
+}
